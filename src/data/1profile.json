@@ -1,0 +1,82 @@
+{
+  "name": "Lucas Andrade",
+  "photo": "https://avatars.githubusercontent.com/u/9919?v=4",
+  "job": "Desenvolvedor Front-end",
+  "location": "São Paulo - SP, Brasil",
+  "phone": "+55 11 99999-9999",
+  "email": "lucas.andrade@email.com",
+
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "Node.js",
+        "logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
+      },
+      {
+        "name": "JavaScript",
+        "logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+      },
+      {
+        "name": "Python",
+        "logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+      },
+      {
+        "name": "Java",
+        "logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+      },
+      {
+        "name": "HTML5",
+        "logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
+      },
+      {
+        "name": "CSS3",
+        "logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
+      }
+    ],
+    "softSkills": [
+      "Empatia",
+      "Liderança",
+      "Trabalho em equipe",
+      "Flexibilidade",
+      "Organização"
+    ]
+  },
+
+  "languages": [
+    "Português (Nativo)",
+    "Inglês (Intermediário)",
+    "Espanhol (Intermediário)",
+    "Italiano (Iniciante)"
+  ],
+
+  "portfolio": [
+    {
+      "name": "Portfólio Pessoal",
+      "url": "https://github.com/lucasandrade/portfolio",
+      "github": true
+    },
+    {
+      "name": "Pokédex Web",
+      "url": "https://github.com/lucasandrade/pokedex",
+      "github": true
+    }
+  ],
+
+  "professionalExperience": [
+    {
+      "name": "Arquiteto de Software / S3 Bank",
+      "period": "2022 - Atual",
+      "description": "Responsável pela definição da arquitetura front-end e integração com APIs, focando em performance, acessibilidade e escalabilidade."
+    },
+    {
+      "name": "Software Engineering Lead / DIO",
+      "period": "2020 - 2022",
+      "description": "Liderança técnica de times de desenvolvimento, mentoria de alunos e criação de conteúdos educacionais."
+    },
+    {
+      "name": "CEO / Brain Machine",
+      "period": "2018 - 2020",
+      "description": "Fundador de startup focada em soluções digitais e automação de processos."
+    }
+  ]
+}
