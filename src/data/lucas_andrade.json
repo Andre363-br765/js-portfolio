@@ -1,0 +1,78 @@
+{
+  "name": "Lucas Andrade",
+  "photo": "https://i.imgur.com/8Km9tLL.png",
+  "job": "Engenheiro de Software Backend",
+  "location": "Las Vegas, EUA",
+  "phone": "+1 (702) 555-0198",
+  "email": "lucas.andrade.dev@exemplo.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "C++",
+        "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
+      },
+      {
+        "name": "Java",
+        "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+      },
+      {
+        "name": "Python",
+        "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+      },
+      {
+        "name": "JavaScript",
+        "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+      },
+      {
+        "name": "C#",
+        "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
+      },
+      {
+        "name": "Node.js",
+        "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+      }
+    ],
+    "softSkills": [
+      "Raciocínio lógico",
+      "Resolução de problemas",
+      "Comunicação técnica",
+      "Trabalho em equipe",
+      "Pensamento analítico"
+    ]
+  },
+  "languages": [
+    "Português",
+    "Inglês",
+    "Espanhol",
+    "Francês (básico)"
+  ],
+  "portfolio": [
+    {
+      "name": "API de Gerenciamento de Usuários",
+      "url": "https://github.com/fakeuser/user-management-api",
+      "github": true
+    },
+    {
+      "name": "Sistema de Autenticação JWT",
+      "url": "https://github.com/fakeuser/jwt-auth-service",
+      "github": true
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Backend Engineer | Orion Tech",
+      "period": "2021 - 2023",
+      "description": "Desenvolvimento de APIs REST escaláveis, integração com bancos de dados relacionais e otimização de performance em serviços backend."
+    },
+    {
+      "name": "Software Engineer | Nova Systems",
+      "period": "2019 - 2021",
+      "description": "Atuação no desenvolvimento de sistemas corporativos, manutenção de microsserviços e implementação de rotinas de segurança."
+    },
+    {
+      "name": "Desenvolvedor Backend Júnior | CodeLab",
+      "period": "2017 - 2019",
+      "description": "Suporte no desenvolvimento de aplicações backend, escrita de testes automatizados e documentação técnica."
+    }
+  ]
+}

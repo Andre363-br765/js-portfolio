@@ -1,5 +1,5 @@
 export async function fetchProfileData() {
-    const url = ''
-    const response = await fetch(url)
-    return response.json()
+  const url = './src/data/lucas_andrade.json'
+  const response = await fetch(url)
+  return response.json()
 }
