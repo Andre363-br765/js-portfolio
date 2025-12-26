@@ -1,5 +1,5 @@
 export function updateProfessionalExperience(profileData) {
-    const experience = document.getElementById('profile.professionalExperience')
+    const experience = document.getElementById('profile-professionalExperience')
     experience.innerHTML = profileData.professionalExperience
         .map(exp => `
             <li>

@@ -1,18 +1,14 @@
 {
   "name": "",
-  "photo": "",
-  "job": "",
-  "location": "",
+  "photo": "./src/assets/imgs/profile/",
+  "job": "Analista de Banco de Dados",
+  "location": "toquio",
   "phone": "",
   "email": "",
   "skills": {
     "hardSkills": [
       {
-        "name": "Nodejs",
-        "logo": ""
-      },
-      {
-        "name": "javacript",
+        "name": "SQL",
         "logo": ""
       },
       {
@@ -20,7 +16,11 @@
         "logo": ""
       },
       {
-        "name": "Java",
+        "name": "java",
+        "logo": ""
+      },
+      {
+        "name": "",
         "logo": ""
       },
       {
@@ -32,20 +32,9 @@
         "logo": ""
       }
     ],
-    "softSkills": [
-      "Empatia",
-      "Liderança",
-      "Trabalho em equipe",
-      "Flexibilidade",
-      "Organização"
-    ]
+    "softSkills": ["", "", "", "", ""]
   },
-  "languages": [
-    "Português BR",
-    "Inglês (intermediário)",
-    "Espanhol (intermediário)",
-    "Italiano (iniciante)"
-  ],
+  "languages": ["português", "ingles", "japones", "chines"],
   "portfolio": [
     {
       "name": "",
@@ -60,17 +49,17 @@
   ],
   "professionalExperience": [
     {
-      "name": "Arquiteto de software / S3 BANK",
+      "name": "",
       "period": "",
       "description": "."
     },
     {
-      "name": "Software Engineering Lead / DIO",
+      "name": "",
       "period": "",
       "description": ""
     },
     {
-      "name": "CEO / Brain Machine",
+      "name": "",
       "period": "",
       "description": ""
     }

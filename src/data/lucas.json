@@ -1,6 +1,6 @@
 {
   "name": "Lucas Andrade",
-  "photo": "https://i.imgur.com/8Km9tLL.png",
+  "photo": "./src/assets/imgs/profile/lucas.png",
   "job": "Engenheiro de Software Backend",
   "location": "Las Vegas, EUA",
   "phone": "+1 (702) 555-0198",
@@ -40,12 +40,7 @@
       "Pensamento analítico"
     ]
   },
-  "languages": [
-    "Português",
-    "Inglês",
-    "Espanhol",
-    "Francês (básico)"
-  ],
+  "languages": ["Português", "Inglês", "Espanhol", "Francês (básico)"],
   "portfolio": [
     {
       "name": "API de Gerenciamento de Usuários",

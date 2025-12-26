@@ -1,0 +1,73 @@
+{
+  "name": "Liam Carter",
+  "photo": "./src/assets/imgs/profile/liam.png",
+  "job": "Desenvolvedor de Jogos",
+  "location": "Califórnia, EUA",
+  "phone": "+1 (310) 555-0123",
+  "email": "liam.carter.games@exemplo.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "C++",
+        "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
+      },
+      {
+        "name": "Java",
+        "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+      },
+      {
+        "name": "C#",
+        "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
+      },
+      {
+        "name": "Unity 3D",
+        "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"
+      },
+      {
+        "name": "Unreal Engine",
+        "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg"
+      },
+      {
+        "name": "Blender",
+        "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg"
+      }
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Trabalho em equipe",
+      "Gestão de projetos",
+      "Resolução de problemas complexos",
+      "Comunicação técnica"
+    ]
+  },
+  "languages": ["Inglês", "Espanhol", "Francês (básico)", "Alemão"],
+  "portfolio": [
+    {
+      "name": "Jogo de Plataforma 2D",
+      "url": "https://github.com/fakeuser/2d-platformer",
+      "github": true
+    },
+    {
+      "name": "RPG 3D Multiplayer",
+      "url": "https://github.com/fakeuser/3d-rpg-multiplayer",
+      "github": true
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Game Developer | PixelWorks",
+      "period": "2021 - 2025",
+      "description": "Desenvolvimento de jogos multiplataforma utilizando Unity e Unreal Engine, programação em C++ e C#, e integração com sistemas de backend."
+    },
+    {
+      "name": "Junior Game Developer | DreamForge",
+      "period": "2019 - 2021",
+      "description": "Apoio na criação de jogos 2D/3D, implementação de mecânicas de gameplay e otimização de performance."
+    },
+    {
+      "name": "Estagiário de Desenvolvimento | IndieLab",
+      "period": "2018 - 2019",
+      "description": "Participação na prototipagem de jogos, criação de assets básicos e suporte em scripts de gameplay."
+    }
+  ]
+}

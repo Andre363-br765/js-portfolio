@@ -1,0 +1,73 @@
+{
+  "name": "Laura Mendes",
+  "photo": "./src/assets/imgs/profile/laura.png",
+  "job": "Desenvolvedora de Apps Mobile",
+  "location": "Califórnia, EUA",
+  "phone": "+1 (415) 555-0187",
+  "email": "laura.mendes.mobile@exemplo.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "Java",
+        "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+      },
+      {
+        "name": "Kotlin",
+        "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"
+      },
+      {
+        "name": "Swift",
+        "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"
+      },
+      {
+        "name": "React Native",
+        "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+      },
+      {
+        "name": "Flutter",
+        "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"
+      },
+      {
+        "name": "Firebase",
+        "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
+      }
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Trabalho em equipe",
+      "Comunicação eficaz",
+      "Resolução de problemas",
+      "Gestão de tempo"
+    ]
+  },
+  "languages": ["Inglês", "Francês", "Espanhol (básico)", "Alemão"],
+  "portfolio": [
+    {
+      "name": "App de Lista de Tarefas",
+      "url": "https://github.com/fakeuser/todo-mobile-app",
+      "github": true
+    },
+    {
+      "name": "App de Finanças Pessoais",
+      "url": "https://github.com/fakeuser/personal-finance-app",
+      "github": true
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Desenvolvedora Mobile | AppWorks",
+      "period": "2022 - 2025",
+      "description": "Criação de aplicativos mobile para Android e iOS usando Kotlin, Swift, Flutter e React Native. Integração com APIs e Firebase."
+    },
+    {
+      "name": "Desenvolvedora Júnior | MobileLab",
+      "period": "2020 - 2022",
+      "description": "Participação no desenvolvimento de apps mobile, correção de bugs, testes unitários e documentação técnica."
+    },
+    {
+      "name": "Estagiária em Desenvolvimento Mobile | CodeStudio",
+      "period": "2019 - 2020",
+      "description": "Suporte no desenvolvimento de aplicativos, prototipagem e integração com serviços backend."
+    }
+  ]
+}

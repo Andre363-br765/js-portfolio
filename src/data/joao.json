@@ -1,0 +1,78 @@
+{
+  "name": "João Paulo",
+  "photo": "./src/assets/imgs/profile/joao.png",
+  "job": "Desenvolvedor Web Fullstack",
+  "location": "São Paulo, Brasil",
+  "phone": "+55 11 91234-5678",
+  "email": "joao.paulo.dev@exemplo.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "HTML5",
+        "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+      },
+      {
+        "name": "CSS3",
+        "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+      },
+      {
+        "name": "JavaScript",
+        "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+      },
+      {
+        "name": "Node.js",
+        "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+      },
+      {
+        "name": "Python",
+        "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+      },
+      {
+        "name": "React",
+        "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+      }
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Comunicação eficaz",
+      "Gestão de tempo",
+      "Resolução de problemas",
+      "Adaptabilidade"
+    ]
+  },
+  "languages": [
+    "Português BR",
+    "Inglês (intermediário)",
+    "Espanhol (básico)",
+    "Francês (básico)"
+  ],
+  "portfolio": [
+    {
+      "name": "Site de Portfólio Pessoal",
+      "url": "https://github.com/fakeuser/portfolio-web",
+      "github": true
+    },
+    {
+      "name": "E-commerce Frontend",
+      "url": "https://github.com/fakeuser/ecommerce-frontend",
+      "github": true
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Desenvolvedor Web | Tech Solutions",
+      "period": "2022 - 2025",
+      "description": "Desenvolvimento de websites e aplicações web responsivas utilizando HTML, CSS, JavaScript e frameworks modernos."
+    },
+    {
+      "name": "Fullstack Developer | WebLab",
+      "period": "2020 - 2022",
+      "description": "Criação de APIs com Node.js, integração com frontend em React e manutenção de bancos de dados relacionais e não relacionais."
+    },
+    {
+      "name": "Estagiário de Desenvolvimento | CodeFactory",
+      "period": "2019 - 2020",
+      "description": "Suporte no desenvolvimento de aplicações web, testes e documentação técnica de projetos internos."
+    }
+  ]
+}

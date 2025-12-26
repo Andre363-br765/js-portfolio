@@ -1,0 +1,78 @@
+{
+  "name": "Letícia Rocha",
+  "photo": "./src/assets/imgs/profile/leticia.png",
+  "job": "Data Scientist / IA / Machine Learning",
+  "location": "Lisboa, Portugal",
+  "phone": "+351 912 345 678",
+  "email": "leticia.data@exemplo.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "Python",
+        "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+      },
+      {
+        "name": "Java",
+        "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+      },
+      {
+        "name": "Julia",
+        "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg"
+      },
+      {
+        "name": "R",
+        "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"
+      },
+      {
+        "name": "Haskell",
+        "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg"
+      },
+      {
+        "name": "TensorFlow",
+        "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"
+      }
+    ],
+    "softSkills": [
+      "Pensamento analítico",
+      "Curiosidade científica",
+      "Resolução de problemas",
+      "Comunicação de dados",
+      "Aprendizado contínuo"
+    ]
+  },
+  "languages": [
+    "Português",
+    "Inglês",
+    "Espanhol",
+    "Francês (básico)"
+  ],
+  "portfolio": [
+    {
+      "name": "Modelo de Previsão de Demanda",
+      "url": "https://github.com/fakeuser/demand-forecast-ml",
+      "github": true
+    },
+    {
+      "name": "Análise de Dados Financeiros",
+      "url": "https://github.com/fakeuser/financial-data-analysis",
+      "github": true
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Data Scientist | Insight Analytics",
+      "period": "2022 - 2025",
+      "description": "Desenvolvimento de modelos de machine learning, análise de grandes volumes de dados e criação de pipelines de dados."
+    },
+    {
+      "name": "Analista de Dados | DataLab",
+      "period": "2020 - 2022",
+      "description": "Limpeza, análise exploratória de dados e criação de dashboards para apoio à tomada de decisão."
+    },
+    {
+      "name": "Estagiária em Ciência de Dados | AI Research Hub",
+      "period": "2019 - 2020",
+      "description": "Apoio em projetos de pesquisa em inteligência artificial, testes de modelos e documentação técnica."
+    }
+  ]
+}

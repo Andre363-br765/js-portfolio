@@ -1,0 +1,78 @@
+{
+  "name": "Maria Jónsdóttir",
+  "photo": "./src/assets/imgs/profile/maria.png",
+  "job": "Especialista em Cyber Segurança",
+  "location": "Reykjavik, Islândia",
+  "phone": "+354 555 0123",
+  "email": "maria.cybersec@exemplo.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "Linux",
+        "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
+      },
+      {
+        "name": "Networking",
+        "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/networking/networking-original.svg"
+      },
+      {
+        "name": "Social Engineering",
+        "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/security/security-original.svg"
+      },
+      {
+        "name": "Python",
+        "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+      },
+      {
+        "name": "C++",
+        "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
+      },
+      {
+        "name": "Penetration Testing",
+        "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/metasploit/metasploit-original.svg"
+      }
+    ],
+    "softSkills": [
+      "Pensamento analítico",
+      "Resolução de problemas complexos",
+      "Atenção aos detalhes",
+      "Trabalho em equipe",
+      "Comunicação técnica"
+    ]
+  },
+  "languages": [
+    "Islandês",
+    "Inglês",
+    "Polonês",
+    "Alemão (básico)"
+  ],
+  "portfolio": [
+    {
+      "name": "Ferramenta de Análise de Vulnerabilidades",
+      "url": "https://github.com/fakeuser/vuln-analyzer",
+      "github": true
+    },
+    {
+      "name": "Automação de Testes de Penetração",
+      "url": "https://github.com/fakeuser/pen-test-automation",
+      "github": true
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Cyber Security Analyst | IceSecure",
+      "period": "2022 - 2025",
+      "description": "Monitoramento de sistemas, análise de vulnerabilidades, testes de penetração e implementação de medidas de segurança."
+    },
+    {
+      "name": "Security Engineer | Arctic Networks",
+      "period": "2020 - 2022",
+      "description": "Desenvolvimento de ferramentas de segurança, auditoria de redes e treinamento de equipes em práticas de proteção digital."
+    },
+    {
+      "name": "Estagiária em Cyber Segurança | NordSec",
+      "period": "2018 - 2020",
+      "description": "Suporte em auditorias de segurança, análise de logs e desenvolvimento de scripts de automação em Python."
+    }
+  ]
+}

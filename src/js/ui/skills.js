@@ -1,12 +1,12 @@
 export function updateSoftSkills(profileData) {
-    const softSkills = document.getElementById('profile.skills.softSkills')
+    const softSkills = document.getElementById('profile-skills-softSkills')
     softSkills.innerHTML = profileData.skills.softSkills
         .map(skill => `<li>${skill}</li>`)
         .join('')
 }
 
 export function updateHardSkills(profileData) {
-    const hardSkills = document.getElementById('profile.skills.hardSkills')
+    const hardSkills = document.getElementById('profile-skills-hardSkills')
     hardSkills.innerHTML = profileData.skills.hardSkills
         .map(skill =>
             `<li>
