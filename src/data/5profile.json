@@ -13,11 +13,11 @@
       },
       {
         "name": "Networking",
-        "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/networking/networking-original.svg"
+        "logo": "https://cdn.simpleicons.org/cisco"
       },
       {
         "name": "Social Engineering",
-        "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/security/security-original.svg"
+        "logo": "https://img.icons8.com/ios-filled/100/phishing.png"
       },
       {
         "name": "Python",
@@ -29,7 +29,7 @@
       },
       {
         "name": "Penetration Testing",
-        "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/metasploit/metasploit-original.svg"
+        "logo": "https://img.icons8.com/ios-filled/100/hacker.png"
       }
     ],
     "softSkills": [
@@ -40,12 +40,7 @@
       "Comunicação técnica"
     ]
   },
-  "languages": [
-    "Islandês",
-    "Inglês",
-    "Polonês",
-    "Alemão (básico)"
-  ],
+  "languages": ["Islandês", "Inglês", "Polonês", "Alemão (básico)"],
   "portfolio": [
     {
       "name": "Ferramenta de Análise de Vulnerabilidades",

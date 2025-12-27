@@ -25,7 +25,7 @@
       },
       {
         "name": "Haskell",
-        "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg"
+        "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-plain.svg"
       },
       {
         "name": "TensorFlow",
@@ -40,12 +40,7 @@
       "Aprendizado contínuo"
     ]
   },
-  "languages": [
-    "Português",
-    "Inglês",
-    "Espanhol",
-    "Francês (básico)"
-  ],
+  "languages": ["Português", "Inglês", "Espanhol", "Francês (básico)"],
   "portfolio": [
     {
       "name": "Modelo de Previsão de Demanda",

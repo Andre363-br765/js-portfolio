@@ -8,8 +8,8 @@
   "skills": {
     "hardSkills": [
       {
-        "name": "SQL",
-        "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+        "name": "MySQL",
+        "logo": "https://img.icons8.com/ios-filled/100/mysql-logo.png"
       },
       {
         "name": "Python",
