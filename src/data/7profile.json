@@ -29,7 +29,7 @@
       },
       {
         "name": "Power BI",
-        "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg"
+        "logo": "https://img.icons8.com/color/96/power-bi.png"
       }
     ],
     "softSkills": [
@@ -40,12 +40,7 @@
       "Comunicação técnica"
     ]
   },
-  "languages": [
-    "Português",
-    "Inglês",
-    "Japonês",
-    "Chinês"
-  ],
+  "languages": ["Português", "Inglês", "Japonês", "Chinês"],
   "portfolio": [
     {
       "name": "Sistema de Análise de Vendas",

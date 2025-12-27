@@ -1,5 +1,7 @@
 export function updatePortfolio(profileData) {
     const portfolio = document.getElementById('profile-portfolio')
+
+    // renderiza os projetos no HTML
     portfolio.innerHTML = profileData.portfolio
         .map(project => `
             <li>

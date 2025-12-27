@@ -1,9 +1,10 @@
 export function initAcordeon() {
-    const triggers = document.querySelectorAll('.acordeon .trigger')
+  // controla abrir/fechar as seções do acordeon
+  const triggers = document.querySelectorAll(".acordeon .trigger");
 
-    triggers.forEach(trigger => {
-        trigger.addEventListener('click', () => {
-            trigger.parentElement.classList.toggle('open')
-        })
-    })
+  triggers.forEach((trigger) => {
+    trigger.addEventListener("click", () => {
+      trigger.parentElement.classList.toggle("open");
+    });
+  });
 }

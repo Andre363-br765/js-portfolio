@@ -7,9 +7,11 @@ import { updatePortfolio } from './ui/portfolio.js'
 import { updateProfessionalExperience } from './ui/experience.js'
 
 import { initAcordeon } from './components/acordeon.js'
+import { initProfileMenu } from './components/profileMenu.js'
 
-(async () => {
-    const profileData = await fetchProfileData()
+
+async function loadProfile(profileFile) {
+    const profileData = await fetchProfileData(profileFile)
 
     updateProfileInfo(profileData)
     updateSoftSkills(profileData)
@@ -17,6 +19,12 @@ import { initAcordeon } from './components/acordeon.js'
     updateLanguages(profileData)
     updatePortfolio(profileData)
     updateProfessionalExperience(profileData)
+}
 
+(async () => {
+    await loadProfile()
     initAcordeon()
+
+    // 🔹 inicia menu de perfis
+    initProfileMenu(loadProfile)
 })()

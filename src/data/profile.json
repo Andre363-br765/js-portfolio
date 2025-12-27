@@ -1,67 +1,55 @@
 {
-  "name": "",
-  "photo": "",
-  "job": "",
-  "location": "",
-  "phone": "",
-  "email": "",
+  "name": "Seu portfólio",
+  "photo": "./src/assets/imgs/my-photo.png",
+  "job": "Sua área ou cargo (ex: Desenvolvedor Web, Data Scientist)",
+  "location": "Sua localização (cidade, país)",
+  "phone": "Seu telefone ou WhatsApp",
+  "email": "Seu e-mail profissional",
   "skills": {
     "hardSkills": [
       {
-        "name": "",
-        "logo": ""
+        "name": "Tecnologia ou ferramenta (ex: HTML, CSS, JavaScript)",
+        "logo": "URL ou caminho do ícone da tecnologia"
       },
-      {
-        "name": "",
-        "logo": ""
+ {
+        "name": "Tecnologia ou ferramenta (ex: HTML, CSS, JavaScript)",
+        "logo": "URL ou caminho do ícone da tecnologia"
       },
-      {
-        "name": "",
-        "logo": ""
-      },
-      {
-        "name": "",
-        "logo": ""
-      },
-      {
-        "name": "",
-        "logo": ""
-      },
-      {
-        "name": "",
-        "logo": ""
+       {
+        "name": "Tecnologia ou ferramenta (ex: HTML, CSS, JavaScript)",
+        "logo": "URL ou caminho do ícone da tecnologia"
       }
     ],
-    "softSkills": ["", "", "", "", ""]
+    "softSkills": [
+      "Habilidade comportamental (ex: Comunicação)",
+      "Trabalho em equipe",
+      "Organização",
+      "Resolução de problemas",
+      "Aprendizado contínuo"
+    ]
   },
-  "languages": ["", "", "", ""],
+  "languages": [
+    "Idioma principal (ex: Português)",
+    "Segundo idioma (ex: Inglês)",
+    "Outro idioma (opcional)"
+  ],
   "portfolio": [
     {
-      "name": "",
-      "url": "",
+      "name": "Nome do projeto",
+      "url": "Link do projeto (site ou repositório)",
       "github": true
     },
     {
-      "name": "",
-      "url": "",
+      "name": "Outro projeto (opcional)",
+      "url": "Link do projeto",
       "github": true
     }
   ],
   "professionalExperience": [
     {
-      "name": "",
-      "period": "",
-      "description": "."
-    },
-    {
-      "name": "",
-      "period": "",
-      "description": ""
-    },
-    {
-      "name": "",
-      "period": "",
-      "description": ""
+      "name": "Cargo ou função exercida",
+      "period": "Período (ex: 2022 - 2024)",
+      "description": "Descrição resumida do que você fez nessa experiência"
     }
   ]
 }
